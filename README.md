@@ -1,0 +1,2 @@
+# TED
+TrickEmu Documentation
