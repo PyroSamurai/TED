@@ -27,9 +27,9 @@ This list contains functions that aren't done, are partially done, and done.
 
 ## Task Status (In progress)
 
-- [ ][x] Character selection. Missing equipment on the list.
-- [ ][x] Character equipment. Can't equip items, but the default items (ears/tail) are there.
-- [ ][x] Character inventory. Can't use or equip any items.
+- [ ] Character selection. Missing equipment on the list.
+- [ ] Character equipment. Can't equip items, but the default items (ears/tail) are there.
+- [ ] Character inventory. Can't use or equip any items.
 
 
 
