@@ -1,4 +1,3 @@
-
 # ToDo List
 
 This list contains functions that aren't done, are partially done, and done. 
