@@ -1,5 +1,5 @@
 # Dev Tips
-
+---
 ## How to use revision numbers:
 * ##### When using git, a program's _version_ should be only be denoted in _commit tags_. Nowhere else.
 * ##### The basic version format is: `major.minor.revision`
@@ -13,6 +13,7 @@
 * 2.0.0 - big step up, may not be compatible or optimised for version 1.x
 ###### You can find more info on software revisioning on the [wiki page](http://wikipedia.org/wiki/Software_versioning) which basically says "everybody does it their own way"
 
+---
 ## What is not an improvement with respect to user-side features:
 1. If it takes more steps to achieve than before: not an improvement.
 2. If you can achieve no more than what was possible before: not an improvement.
